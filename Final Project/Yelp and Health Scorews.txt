@@ -1,0 +1,3 @@
+Predicting Health Score through Yelp Reviews:
+
+use yelp reviews along with restaurant health scores to train, to predict health scores of restaurants without a heath score posting. 
